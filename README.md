@@ -20,3 +20,7 @@ The King County region, located in the US state of Washington, is home to 2.25 m
 * Matplotlib and Seaborn for Data Visualization
 * Numpy for Basic Calculations
 * Scipy/Statsmodels/Scikit Learn for Linear Regression
+
+### Process Overview
+
+![Process](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/process.PNG)
