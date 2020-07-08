@@ -32,11 +32,11 @@ The King County region, located in the US state of Washington, is home to 2.25 m
    ![Data Type](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/Capture_3.PNG)
    
 * Identify and deal with null values appropriately
-  * Identified the percentage of NA values within each variable by using .value_counts(normalize = True) and then dropped/replaced the NA values
+  * Identify the percentage of NA values within each variable by using .value_counts(normalize = True) and then drop/replace the NA values
   ![NA values](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/Capture_4.PNG)
   
 * Check for outliers and drop them from the data set
-  * Used scatterplots to graph the relationship between price and each individual predictor variable. Scatterplots are a great way to observe any outliers
+  * Use scatterplots to graph the relationship between price and each individual predictor variable. Scatterplots are a great way to observe any outliers
   * Determined that the following variables are categorical:
    * bedrooms
    * bathrooms
@@ -93,7 +93,7 @@ The King County region, located in the US state of Washington, is home to 2.25 m
   * Normality
   * Homoscedasticity
 
-  *Iterated through all the predictor variables to check out if these three assumptions were met for any of them. Here is a sample of one of the graphs*
+  *Iterate through all the predictor variables to check out if these three assumptions were met for any of them. Here is a sample of one of the graphs*
   
   ![scatter](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/linear.png)
   ![reg_exog](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/linear_regression_assumptions.png)
@@ -119,7 +119,7 @@ The King County region, located in the US state of Washington, is home to 2.25 m
     * bathrooms 
     * sqft_lot
     
-    Scale these features afterwards to make each predictor variable's effects are calculated relatively in our final model
+   Scale these features afterwards to make each predictor variable's effects are calculated relatively in our final model
     
    ![chosen_features](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/Capture.PNG)
    
