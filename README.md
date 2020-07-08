@@ -1,5 +1,5 @@
 
-# King County Housing Prices Analysis
+# King County Housing Analysis
 
 ![King County House](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/house_final.jpg)
 
