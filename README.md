@@ -19,7 +19,7 @@ The King County region, located in the US state of Washington, is home to 2.25 m
 * Pandas for Data Cleaning
 * Matplotlib and Seaborn for Data Visualization
 * Numpy for Basic Calculations
-* Scipy/Statsmodels/Scikit Learn for Linear Regression
+* SciPy/Statsmodels/Scikit Learn for Linear Regression
 
 ### Process Overview
 
