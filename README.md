@@ -134,8 +134,8 @@ The King County region, located in the US state of Washington, is home to 2.25 m
 
        
    ![test_data](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/training_test_error.png)
-       
-  **Use Cross Validation with 5 Folds (better method)** 
+
+**Use Cross Validation with 5 Folds (better method)** 
 
 * Train-test split MSE: 13055616350.428406
 * Cross Val 5-Fold MSE: 12780931558.566036
