@@ -15,3 +15,8 @@ The King County region, located in the US state of Washington, is home to 2.25 m
 ## Objective of the project
 *To help the investor figure out the best attributes of a house that yields the highest profit. The concept of linear regression will be utilized to predict future prices of houses based on selected predictor variables*
 
+#### Technologies Used:
+* Pandas for Data Cleaning
+* Matplotlib and Seaborn for Data Visualization
+* Numpy for Basic Calculations
+* Scipy/Statsmodels/Scikit Learn for Linear Regression
