@@ -121,7 +121,7 @@ The King County region, located in the US state of Washington, is home to 2.25 m
     
    Scale these features afterwards to make each predictor variable's effects are calculated relatively in our final model
     
-   ![chosen_features](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/Capture.PNG)
+   ![chosen_features](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/final_model.PNG)
    
    ## Model Validation
    
