@@ -153,19 +153,19 @@ Our model will follow the following formula: *𝑦̂ = 𝛽̂0 + 𝛽̂1𝑥1+ �
 * n: Number of predictors
 
 
-**𝑦̂ = 11022340.24(Lat) + 778260.09(Grade) + 100166.97(Bathrooms) + 78779.72(Floors) + 21272.52(Bedrooms) + 16433.33(Sqft_lot) - 30066101.34**
+**𝑦̂ = 14669.71(Lat) + 111109.48(Grade) + 59864.52(Bathrooms) + 14669.71(Bedrooms) + 527349.27(waterfront)**
 
 ![model_graph](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/final_graph.png)
 
 
 **Analysis**
 
-* Lat:  Can reasonably infer that being farther up North can add a huge amount of value - specifically $11,022,340.24 
-* Bedrooms: Having a additional bedroom can bring a modest amount of $21,272.52
-* Grade: The grading assigned to a housing unit can drive up a house's price massively.  As seen in the EDA section, we can confirm this finding as we notice a high correlation between the price of a house and its grade. Grade brings in $778,260.09  in value
-* Floors: Floors did not seem to have a big impact in our model's r-squared value but it still racks in $78,779.72 in value
-* Bathrooms: An additional bathrooms brings in a large amount of $100,166.97, and this seems reasonable because most people would be satisfied with having more bathrooms.
-* Sqft_lot:  As seen in the EDA, although the distribution of the sizes of houses were all very evenly spread out with no clear pattern, sqft_lot still brings in a modest value of $16,433.33
+* Bedrooms: Having a additional bedroom can bring a modest amount of $14669.71
+* Grade: The grading assigned to a housing unit can drive up a house's price massively.  As seen in the EDA section, we can confirm this finding as we notice a high correlation between the price of a house and its grade. Grade brings in $ 111109.48  in value
+* Lat: Can reasonably infer that being farther up North can add a huge amount of value – specifically $14669.71
+* Bathrooms: An additional bathroom brings in $ 59864.52 in value, and this seems reasonable because most people would be satisfied with having more bathrooms.
+* Waterfront: Brings in $527349.27, the highest valued predictor
+
    
 
 
