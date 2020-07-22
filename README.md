@@ -114,10 +114,9 @@ The King County region, located in the US state of Washington, is home to 2.25 m
   **Chosen Features:**
     * lat
     * bedrooms 
-    * grade 
-    * floors 
+    * grade  
     * bathrooms 
-    * sqft_lot
+    * waterfront
     
    Scale these features afterwards to make each predictor variable's effects are calculated relatively in our final model
     
