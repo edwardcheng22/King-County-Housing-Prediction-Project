@@ -153,7 +153,7 @@ Our model will follow the following formula: *𝑦̂ = 𝛽̂0 + 𝛽̂1𝑥1+ �
 * n: Number of predictors
 
 
-**𝑦̂ = 224425.17(waterfront) + 145883.80(Lat) + 115566.39(Grade) + 47436.07(Bathrooms) + 12878.10(Bedrooms) - 15084887.70)**
+**𝑦̂ = 224425.17(waterfront) + 145883.80(Lat) + 115566.39(Grade) + 47436.07(Bathrooms) + 12878.10(Bedrooms) - 15084887.70**
 
 ![model_graph](https://github.com/edwardcheng22/King-County-Housing-Prices-Prediction-Project/blob/master/Images/final_graph.png)
 
@@ -161,7 +161,7 @@ Our model will follow the following formula: *𝑦̂ = 𝛽̂0 + 𝛽̂1𝑥1+ �
 **Analysis**
 
 * Bedrooms: Having a additional bedroom can bring a modest amount of $12878.10
-* Grade: The grading assigned to a housing unit can drive up a house's price massively.  As seen in the EDA section, we can confirm this finding as we notice a high correlation between the price of a house and its grade. Grade brings in $115566.39  in value
+* Grade: The grading assigned to a housing unit can drive up a house's price massively.  As seen in the EDA section, we can confirm this finding as we notice a high correlation between the price of a house and its grade. Grade brings in $115566.39 in value
 * Lat: Can reasonably infer that being farther up North can add a huge amount of value – specifically $145883.80
 * Bathrooms: An additional bathroom brings in $47436.07 in value, and this seems reasonable because most people would be satisfied with having more bathrooms.
 * Waterfront: Brings in $224425.17, the highest valued predictor
